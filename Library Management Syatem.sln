@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library Management Syatem", "Library Management Syatem.csproj", "{EFCAC46C-27C4-483A-915F-0DB8E53473BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFCAC46C-27C4-483A-915F-0DB8E53473BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCAC46C-27C4-483A-915F-0DB8E53473BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCAC46C-27C4-483A-915F-0DB8E53473BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCAC46C-27C4-483A-915F-0DB8E53473BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C075526-A16F-40EC-8A89-3F7C5BE2CBA4}
+	EndGlobalSection
+EndGlobal
